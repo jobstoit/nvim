@@ -18,6 +18,8 @@ nmap \ :vsp .<CR>
 " Go configurations
 let g:go_fmt_command = "goimports"
 let g:go_metalinter_autosave = 1
+
+" Flutter configurations
 let g:flutter_command = "flutter"
 let g:flutter_hot_reload_on_save = 1
 
