@@ -1,18 +1,6 @@
-[submodule "bundle/vim-go"]
-	path = bundle/vim-go
-	url = https://github.com/fatih/vim-go
 [submodule "bundle/lightline.vim"]
 	path = bundle/lightline.vim
 	url = https://github.com/itchyny/lightline.vim.git
 [submodule "bundle/emmet-vim"]
 	path = bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
-[submodule "bundle/dart-vim-plugin"]
-	path = bundle/dart-vim-plugin
-	url = https://github.com/dart-lang/dart-vim-plugin.git
-[submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive.git
-[submodule "bundle/vim-flutter"]
-	path = bundle/vim-flutter
-	url = https://github.com/thosakwe/vim-flutter.git
