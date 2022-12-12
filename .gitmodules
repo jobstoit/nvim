@@ -1,6 +1,3 @@
-[submodule "bundle/emmet-vim"]
-	path = bundle/emmet-vim
-	url = https://github.com/mattn/emmet-vim.git
 [submodule "pack/plugins/start/nvim-lspconfig"]
 	path = pack/plugins/start/nvim-lspconfig
 	url = https://github.com/neovim/nvim-lspconfig.git
@@ -19,3 +16,9 @@
 [submodule "pack/plugins/start/vim-jsx-pretty"]
 	path = pack/plugins/start/vim-jsx-pretty
 	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
+[submodule "pack/plugins/start/emmet-vim"]
+	path = pack/plugins/start/emmet-vim
+	url = git@github.com:mattn/emmet-vim.git
+[submodule "pack/plugins/start/vim-go"]
+	path = pack/plugins/start/vim-go
+	url = git@github.com:fatih/vim-go.git
