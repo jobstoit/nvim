@@ -1,3 +1,21 @@
 [submodule "bundle/emmet-vim"]
 	path = bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
+[submodule "pack/plugins/start/nvim-lspconfig"]
+	path = pack/plugins/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "colors/nord-vim"]
+	path = colors/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
+[submodule "colors/photon"]
+	path = colors/photon
+	url = https://github.com/axvr/photon.vim.git
+[submodule "pack/plugins/start/lightline.vim"]
+	path = pack/plugins/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "pack/plugins/start/yast.vim"]
+	path = pack/plugins/start/yast.vim
+	url = https://github.com/HerringtonDarkholme/yats.vim.git
+[submodule "pack/plugins/start/vim-jsx-pretty"]
+	path = pack/plugins/start/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
