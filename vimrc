@@ -16,6 +16,10 @@ hi! NonText ctermbg=NONE guibg=NONE
 inoremap <C-Space> <C-x><C-o>
 nmap - :Ex<CR>
 nmap \ :vsp .<CR>
+nmap <C-l> :lnext<CR>
+nmap <C-h> :lprevious<CR>
+nmap <C-j> :cnext<CR>
+nmap <C-k> :cprevious<CR>
 nmap <C-\> :tabe<CR>:terminal<CR><C-w>j:q<CR>
 
 " Nvim Terminal remap
